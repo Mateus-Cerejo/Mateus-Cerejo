@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.pinimg.com/originals/b5/75/87/b575878d729ebf45daa9ffc904d89716.gif))](https://google.com)
+[![MasterHead](https://i.pinimg.com/originals/b5/75/87/b575878d729ebf45daa9ffc904d89716.gif)](https://google.com)
 <h1 align="center">Hi 👋, I'm Mateus Cerejo</h1>
 <h3 align="center">A CS student from Portugal.</h3>
 
