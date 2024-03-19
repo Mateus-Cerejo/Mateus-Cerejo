@@ -1,6 +1,8 @@
 [![MasterHead](https://i.pinimg.com/originals/b5/75/87/b575878d729ebf45daa9ffc904d89716.gif)](https://google.com)
+
 <h1 align="center">Hi 👋, I'm Mateus Cerejo</h1>
 <h3 align="center">A CS student from Portugal.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b5/75/87/b575878d729ebf45daa9ffc904d89716.gif"/>
 
 - 🔭 I’m currently working on [PAPAE](https://github.com/Mateus-Cerejo/PAPAE)
 
