@@ -4,9 +4,9 @@
 <h3 align="center">A CS student from Portugal.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b5/75/87/b575878d729ebf45daa9ffc904d89716.gif"/>
 
-- 🔭 I’m currently working on [PAPAE](https://github.com/Mateus-Cerejo/PAPAE)
+- 🔭 I’m currently working on [Horses And Hoops](https://github.com/Mateus-Cerejo/Horses-And-Hoops)
 
-- 🌱 I’m currently learning **ASP.NET Core, Angular**
+- 🌱 I’m currently learning **how to walk**
 
 - 📫 How to reach me **mateuslcerejo@gmail.com**
 
